@@ -28,7 +28,7 @@ To populate the website with all of your own data, open the public/resumeData.js
 
 ## 5. (OPTIONAL) Replacing images and/or fonts
 
-If you want to display your own pictures then you have to replace the files at these locations: public/images/header-background.jpg, public/images/testimonials-bg.jpg and public/favicon.ico. FILE NAMES MUST NOT BE CHANGED UNDER ANY CIRCUMSTANCES.
+If you want to display your own pictures then you have to replace the files at these locations: public/images/header-background.jpg, public/images/testimonials-bg.jpg and public/favicon.png. FILE NAMES MUST NOT BE CHANGED UNDER ANY CIRCUMSTANCES.
 
 ## 7. Finalising Resume
 
