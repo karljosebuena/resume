@@ -4,7 +4,7 @@
     "occupation": "Full Stack Engineer/#PAPAFAM Follower",
     "description": "Never breaks under pressure",
     "image": "profilepic.png",
-    "bio": "As usual, HELLO WORLD! I'm a fullstack developer with roughly a decade experience in software development industry. I love building stuff using latest stack and right now react/firebase is my to go suite. Of course influenced by Sonny Sangha #PAPAREACT! Also, I love music, basketbll and body aesthetics :)",
+    "bio": "As usual, HELLO WORLD! I'm a fullstack engineer with more than a decade experience in software development industry. I love building stuff using latest stack and right now react/firebase is my to go suite. Of course influenced by Sonny Sangha #PAPAREACT! Also, I love music, basketbll and body aesthetics :)",
     "contactmessage": "Get in touch with me, it's free!",
     "email": "karljosebuena@gmail.com",
     "phone": "0927 913 7560",
@@ -14,7 +14,7 @@
       "state": "Cavite",
       "zip": "4107"
     },
-    "resumedownload": "https://drive.google.com/file/d/1HmsiO23J-dxP5BHAKFN7_Z19dlyGtEgO/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1wHjG3tqT2sO4Uv1S0-kuN_-3LUhnFSgo/view?usp=sharing",
     "social": [
       {
         "name": "youtube",
@@ -89,6 +89,10 @@
       {
         "name": "Solutions Design",
         "level": "80%"
+      },
+      {
+        "name": "DevOps",
+        "level": "60%"
       }
     ]
   },
@@ -129,7 +133,7 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "I'm NOT a great programmer, BUT a GOOD programmer with GREAT habits",
+        "text": "I'm NOT a great programmer, BUT an experienced programmer with GREAT attitude!",
         "user": "anonymous"
       },
       {
