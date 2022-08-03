@@ -99,6 +99,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Medium Clone (React, Next.Js + Sanity CMS + Tailwind CSS)",
+        "category": "reactjs",
+        "image": "medium.jpg",
+        "url": "https://medium-clone-two-gamma.vercel.app/"
+      },
+      {
         "title": "Snapchat Clone (React JS)",
         "category": "reactjs",
         "image": "snapchat.jpg",
