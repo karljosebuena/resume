@@ -105,6 +105,12 @@
         "url": "https://medium-clone-two-gamma.vercel.app/"
       },
       {
+        "title": "Slack Clone REACT.JS! (with REDUX, Styled components & Firebase Hooks)",
+        "category": "reactjs",
+        "image": "slack.jpg",
+        "url": "https://kjb-slack-clone.web.app/"
+      },
+      {
         "title": "Snapchat Clone (React JS)",
         "category": "reactjs",
         "image": "snapchat.jpg",
